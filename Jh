@@ -1,0 +1,5 @@
+!Igit
+clone https://github.com/s0md3v/roop.git
+%ed
+roop
+pip install -r requirements.txt
